@@ -1,0 +1,30 @@
+
+
+html,
+body {
+    background-color: black;
+    color: white;
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kt{
+    color: green;
+}
+
+.tt{
+    color: brown;
+}
